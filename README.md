@@ -6,9 +6,11 @@ Link to the AC's Youtube video
 https://youtu.be/kyM9iXJTBaA
 
 Here is a rendering of the board
+
 ![Board](https://github.com/mrojas36/CoCoDVRelocator/blob/main/pics/Board.PNG)
 
 And what the board looks like installed
+
 ![Board](https://github.com/mrojas36/CoCoDVRelocator/blob/main/pics/Installed.PNG)
 
 ## Bonus
